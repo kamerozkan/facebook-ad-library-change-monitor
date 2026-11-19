@@ -1,0 +1,70 @@
+{
+  "name": "Apify Facebook Ad Library Scraper - Meta Ads Monitor & New Ad",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "trigger-manual",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        240,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.apify.com/v2/acts/kamerozkan~facebook-ad-library-change-monitor/run-sync-get-dataset-items",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer {{ $env.APIFY_TOKEN }}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\"pageIds\": [\"15087023444\"], \"country\": \"US\", \"mode\": \"AUTO\", \"maxAdsPerPage\": 10, \"outputMode\": \"ALL_CHECKED\", \"includeBaseline\": true}",
+        "options": {
+          "timeout": 180000
+        }
+      },
+      "id": "apify-run-sync",
+      "name": "Run facebook-ad-library-change-monitor on Apify",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        500,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Run facebook-ad-library-change-monitor on Apify",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "meta": {
+    "templateCredsSetupCompleted": false,
+    "apifyStoreUrl": "https://apify.com/kamerozkan/facebook-ad-library-change-monitor"
+  }
+}
