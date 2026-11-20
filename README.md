@@ -54,31 +54,32 @@ Real rows from a recent run, with any contact details masked. Full sample: [samp
     "eventId": null,
     "eventType": null,
     "monitorName": "competitor-watch",
-    "monitorKey": "competitor-watch:15087023444:US:active",
+    "monitorKey": "competitor-watch:15087023444:ALL:active",
     "modeUsed": "NEW_LAUNCH_FEED",
-    "country": "US",
+    "country": "ALL",
     "keyword": null,
     "advertiserId": "15087023444",
     "advertiserName": "Nike",
-    "creativeId": "1016451784037642",
+    "creativeId": "1702938977100376",
     "format": "DPA",
     "platforms": [
+      "AUDIENCE_NETWORK",
       "FACEBOOK",
-      "INSTAGRAM"
+      "INSTAGRAM",
+      "MESSENGER"
     ],
-    "firstShown": "2025-06-20",
-    "lastShown": "2026-11-09",
+    "firstShown": "2025-04-07",
+    "lastShown": "2026-11-20",
     "headline": "{{product.name}}",
-    "body": "Get the gear that goes hard on and off the field.",
-    "destinationUrl": "https://www.nike.com/us/en_us",
-    "primaryAssetUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509094198_1485897442775736_2519419118144931021_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m32__VZvkLwQ7kNvwGssyqv&_nc_oc=AdqMU-4a0MJTmHWCinvuo-glSZjXkzgtQk9WR28nfgdnwZ0wMqkUzJUSzpiYqRf5a7M-UspR6HIc1J9pbH4tPfhJ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ePqdk3CihlY3cUgnMtuDaw&_nc_ss=7b289&oh=00_AQRWOn6wnB3_ZyPFfrDN8A5Pi9EvK6fVFH7RrScywC87oA&oe=6AF742F5",
-    "sourceUrl": "https://www.facebook.com/ads/library/?id=1016451784037642",
+    "body": "Bring sports more fully into your day with the Nike App.",
+    "destinationUrl": "http://itunes.apple.com/app/id1095459556",
+    "primaryAssetUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.35426-6/431631323_928727432024463_5606595664509361185_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0T7Fdwf0ixkQ7kNvwHKf0J3&_nc_oc=Adpsz2ivO2niXvQwsC5eeSNKjgz7W4DrgSXMBcfaOisfzonZsmXsLO0w1-ginusuJGAjEwHeS_YceZ_1p1nty0eC&_nc_zt=14&_nc_ht=scontent-bos5-1.xx&_nc_gid=Pv9NEmPnS8NgYZptt1A79g&_nc_ss=7b289&oh=00_AQQ8onYxuOvGcEGpWcyVZxqglMObrw8pk94-l2F3Nkfjew&oe=6B061EE7",
+    "sourceUrl": "https://www.facebook.com/ads/library/?id=1702938977100376",
     "assetUrls": [
-      "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509094198_1485897442775736_2519419118144931021_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m32__VZvkLwQ7kNvwGssyqv&_nc_oc=AdqMU-4a0MJTmHWCinvuo-glSZjXkzgtQk9WR28nfgdnwZ0wMqkUzJUSzpiYqRf5a7M-UspR6HIc1J9pbH4tPfhJ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ePqdk3CihlY3cUgnMtuDaw&_nc_ss=7b289&oh=00_AQRWOn6wnB3_ZyPFfrDN8A5Pi9EvK6fVFH7RrScywC87oA&oe=6AF742F5",
-      "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509094198_1485897442775736_2519419118144931021_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m32__VZvkLwQ7kNvwGssyqv&_nc_oc=AdqMU-4a0MJTmHWCinvuo-glSZjXkzgtQk9WR28nfgdnwZ0wMqkUzJUSzpiYqRf5a7M-UspR6HIc1J9pbH4tPfhJ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ePqdk3CihlY3cUgnMtuDaw&_nc_ss=7b289&oh=00_AQSpHvBhC4r5odyCYYgv8f9sExdTPHeVdLi5PMz3KUuX8Q&oe=6AF742F5",
-      "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509290535_730168202720612_5631758797674183318_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RpXLOaKtdSAQ7kNvwGdl69t&_nc_oc=AdrYxgbWnd4f_w8h-d-btZJDnnONW-zqVqvWfYJFyE8j2Q7yjEPGopOTD8WYhxXZCrssZ9p8idjnnmeojtW14bXo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ePqdk3CihlY3cUgnMtuDaw&_nc_ss=7b289&oh=00_AQS29DtCE3Da5j8hk36t1-FHTfB-KA7IKYBo3JAqQoSWvg&oe=6AF75181",
-      "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509290535_730168202720612_5631758797674183318_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RpXLOaKtdSAQ7kNvwGdl69t&_nc_oc=AdrYxgbWnd4f_w8h-d-btZJDnnONW-zqVqvWfYJFyE8j2Q7yjEPGopOTD8WYhxXZCrssZ9p8idjnnmeojtW14bXo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ePqdk3CihlY3cUgnMtuDaw&_nc_ss=7b289&oh=00_AQSbdb7Xf0Xmv_oIDuydADi2Ckn0PMcm38fqEepGMsWI7g&oe=6AF75181",
-      "https://scontent-ord5-2.xx.fbcdn.net/v/t3
+      "https://scontent-bos5-1.xx.fbcdn.net/v/t39.35426-6/431631323_928727432024463_5606595664509361185_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0T7Fdwf0ixkQ7kNvwHKf0J3&_nc_oc=Adpsz2ivO2niXvQwsC5eeSNKjgz7W4DrgSXMBcfaOisfzonZsmXsLO0w1-ginusuJGAjEwHeS_YceZ_1p1nty0eC&_nc_zt=14&_nc_ht=scontent-bos5-1.xx&_nc_gid=Pv9NEmPnS8NgYZptt1A79g&_nc_ss=7b289&oh=00_AQQ8onYxuOvGcEGpWcyVZxqglMObrw8pk94-l2F3Nkfjew&oe=6B061EE7",
+      "https://scontent-bos5-1.xx.fbcdn.net/v/t39.35426-6/431631323_928727432024463_5606595664509361185_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0T7Fdwf0ixkQ7kNvwHKf0J3&_nc_oc=Adpsz2ivO2niXvQwsC5eeSNKjgz7W4DrgSXMBcfaOisfzonZsmXsLO0w1-ginusuJGAjEwHeS_YceZ_1p1nty0eC&_nc_zt=14&_nc_ht=scontent-bos5-1.xx&_nc_gid=Pv9NEmPnS8NgYZptt1A79g&_nc_ss=7b289&oh=00_AQSqly-gwgSMpt6DMXJjTtcDtF3A5nhSLSxchgBN7aunGA&oe=6B061EE7",
+      "https://scontent-bos5-1.xx.fbcdn.net/v/t39.35426-6/431644642_737508601479774_8272309847273720820_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4K8bP4GtR6IQ7kNvwHZzj7W&_nc_oc=AdrEf_ZUW_DVztjfZkT0IsYVVC7evKsUWbt3CVPxy4c-_zzmhay7RIP2ZCqEWIcKAnKeMM0_FhVhoJKkD9589Hks&_nc_zt=14&_nc_ht=scontent-bos5-1.xx&_nc_gid=Pv9NEmPnS8NgYZptt1A79g&_nc_ss=7b289&oh=00_AQQ_xGNy09rkbHnir9zprqlmSTbDGzQlIn9x4z18LItjuw&oe=6B063B83",
+      "https://scontent-bos5-1.xx.fbcdn.net/v/t39.35426-6/431644642_737508601479774_8272309847273720820_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4K8bP4GtR6IQ7kNvwHZzj7W&_nc_oc=AdrEf_ZUW_DVztjfZkT0IsYVVC7evKsUWbt3CVPxy4c-_zzmhay7RIP2ZCqEWIcKAnKeMM0_FhVhoJKkD9589Hks&_nc
 ```
 
 ## Support
